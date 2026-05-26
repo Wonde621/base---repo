@@ -62,3 +62,4 @@ base 58
 base 59
 base 60
 base 61
+base 62
