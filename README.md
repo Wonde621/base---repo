@@ -66,3 +66,4 @@ base 62
 base 63
 base 64
 base 65
+base 66
